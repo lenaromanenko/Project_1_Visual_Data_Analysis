@@ -1,1 +1,1 @@
-Bootcamp Project 1: "Gapminder Data Visualization"
+Bootcamp Project: "Gapminder Data Visualization"
