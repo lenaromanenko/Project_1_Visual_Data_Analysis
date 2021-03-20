@@ -4,7 +4,7 @@ Animated scatter plot shows correlation between life expactancy and government s
 
 This project has been developed in week 1 of the Data Science Bootcamp at Spiced Academy.
 
-![alt text](https://github.com/lenaromanenko/visual_data_analysis/blob/main/scatterplot.gif)
+![alt text](https://github.com/lenaromanenko/visual_data_analysis/blob/main/scatterplot_images/scatterplot.gif)
 
 ### Data Source:
 https://www.gapminder.org/data/
