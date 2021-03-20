@@ -1,6 +1,6 @@
 ## Bootcamp Project: "Gapminder Data Visualization"
 
-Animated scatter plot shows correlation between life expactancy and government spending on health care in different countries from 1995 to 2010, where the size of points represents the income per capita in respective country.
+Animated scatter plot shows correlation between life expactancy and government spending on health care in different countries from 1995 to 2009, where the size of points represents the income per capita in respective country.
 
 This project has been developed in week 1 of the Data Science Bootcamp at Spiced Academy.
 
